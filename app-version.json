@@ -1,5 +1,5 @@
 {
-  "requiredVersion": "1.0.0",
+  "requiredVersion": "1.0.1",
   "lastOTADate": null,
-  "storeUpdateRequired": false
+  "storeUpdateRequired": true
 }
